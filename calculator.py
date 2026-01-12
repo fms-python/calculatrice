@@ -25,3 +25,4 @@ if __name__ == '__main__':
     assert add(5, 2) == 7
     assert substract(2, 5) == -3
     assert substract(5, 2) == 3
+    assert divide(6,2) == 3
